@@ -1,1 +1,1 @@
-Professor, tentei de todos os jeitos possíveis fazer com que o app funcionasse, mas nada fazia com que saísse da tela de loading na parte dos chats. O SDK está atualizado.
+
